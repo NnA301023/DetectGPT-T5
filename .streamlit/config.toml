@@ -1,6 +1,11 @@
-[theme]
+# [theme]
 # primaryColor="#FFFFFF"
-backgroundColor="#1F1D2B"
+# backgroundColor="#1F1D2B"
 # secondaryBackgroundColor="#262730"
-textColor="#FFFFFF"
+# textColor="#FFFFFF"
 # font="Calibri"
+
+[theme]
+backgroundColor="#1f1d2b"
+secondaryBackgroundColor="#3c3b46"
+textColor="#ffffff"
