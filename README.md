@@ -5,5 +5,5 @@ Final Project Literature Digital
 - [x] Create Boilerplate Interface
 - [x] Research DetectGPT with T5
 - [ ] Integrate UI with SqlLite Database
-- [ ] Create Docker Compose .yaml
+- [x] Create Docker Compose .yaml
 - [ ] Create Dashboard Visualisation Related Output Result.
