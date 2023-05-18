@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  ai-engine:
+    build: ../DetectGPT-T5
+    command: streamlit run app.py
+    ports:
+      - 80:8501
+ 
